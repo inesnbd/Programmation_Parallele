@@ -1,0 +1,16 @@
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\TP_parallele.exe
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\TP_parallele.deps.json
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\TP_parallele.runtimeconfig.json
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\TP_parallele.runtimeconfig.dev.json
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\TP_parallele.dll
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\ref\TP_parallele.dll
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\bin\Debug\net5.0\TP_parallele.pdb
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.csproj.AssemblyReference.cache
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.AssemblyInfoInputs.cache
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.AssemblyInfo.cs
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.csproj.CoreCompileInputs.cache
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.dll
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\ref\TP_parallele.dll
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.pdb
+C:\Users\Djaouida\Desktop\INES\programmation_fonctionelle\programmation_parallele\TP_parallele\obj\Debug\net5.0\TP_parallele.genruntimeconfig.cache
